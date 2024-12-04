@@ -455,7 +455,7 @@ button a {
     color: #4154F1;
     font-family: Nunito;
     font-weight: 700;
-    padding: 90px 0px 0px 0px;
+    padding: 40px 0px 0px 0px;
    
 }
 
@@ -464,7 +464,6 @@ button a {
     display: flex;
     justify-content: center;
     flex-direction: row;
-    flex-wrap: wrap;
     gap: 30px;
     margin: 90px 270px 0px 0px;
 }
@@ -475,7 +474,7 @@ button a {
     width: 350px;
     height: 80px;
     border-radius: 8px;
-    
+    box-shadow: 0px 0px 8px #86a7df;
 }
 
 .svg-1{
@@ -492,6 +491,7 @@ button a {
     display: flex;
     align-items: center;
     justify-content: space-between;
+   
     
 }
 
@@ -500,5 +500,256 @@ button a {
     position: relative;
     right: 180px;
     top: 20px;
+    
 }
 
+.c2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    position: relative;
+    left: 360px;
+    top: -35px;
+    width: 350px;
+    box-shadow: 0px 0px 8px #86a7df;
+    height: 80px;
+    border-radius: 8px;
+     
+    
+}
+
+.svg-2{
+    background-color: #ECF3FF; 
+    width: 35px;
+    height: 35px;
+    position: relative;
+    left: 20px;
+    border-radius: 5px;
+}
+
+
+
+.commitment{
+    font-size: 20px;
+    position: relative;
+    right: 180px;
+    margin: 0px -20px 0px 0px;
+    
+}
+
+
+
+
+
+
+.c3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    position: relative;
+    left: 360px;
+    top: -15px;
+    width: 350px;
+    box-shadow: 0px 0px 8px #86a7df;
+    height: 80px;
+    border-radius: 8px;
+     
+    
+}
+
+.svg-3{
+    background-color: #ECF3FF; 
+    width: 35px;
+    height: 35px;
+    position: relative;
+    left: 20px;
+    border-radius: 5px;
+}
+
+
+
+.teamwork{
+    font-size: 20px;
+    position: relative;
+    right: 180px;
+    margin: 0px -20px 0px 0px;
+    
+}
+
+
+
+
+
+
+.c4{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    position: relative;
+    left: 360px;
+    bottom: -8px;
+    width: 350px;
+    box-shadow: 0px 0px 8px #86a7df;
+    height: 80px;
+    border-radius: 8px;
+     
+    
+}
+
+.svg-4{
+    background-color: #ECF3FF; 
+    width: 35px;
+    height: 35px;
+    position: relative;
+    left: 20px;
+    border-radius: 5px;
+}
+
+
+
+.satis{
+    font-size: 20px;
+    position: relative;
+    right: 180px;
+    margin: 0px -20px 0px 0px;
+    
+}
+
+
+
+
+
+
+.c5{
+ display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    position: relative;
+    left: 0px;
+    top: -175px;
+    width: 350px;
+    box-shadow: 0px 0px 8px #86a7df;
+    height: 80px;
+    border-radius: 8px;
+     
+    
+}
+
+.svg-5{
+    background-color: #ECF3FF; 
+    width: 35px;
+    height: 35px;
+    position: relative;
+    left: 20px;
+    border-radius: 5px;
+}
+
+
+
+.goals{
+    font-size: 20px;
+    position: relative;
+    right: 220px;
+    
+    
+}
+
+
+.c6{
+    display: flex;
+       align-items: center;
+       justify-content: space-between;
+       background-color: white;
+       position: relative;
+       left: 0px;
+       top: -153px;
+       width: 350px;
+       box-shadow: 0px 0px 8px #86a7df;
+       height: 80px;
+       border-radius: 8px;
+        
+       
+   }
+   
+   .svg-6{
+       background-color: #ECF3FF; 
+       width: 35px;
+       height: 35px;
+       position: relative;
+       left: 20px;
+       border-radius: 5px;
+   }
+   
+   
+   
+   .respo{
+       font-size: 20px;
+       position: relative;
+       right: 150px;
+       
+       
+   }
+
+
+
+   .container7{
+    text-align: center;
+   }
+
+
+   .port{
+    color: #4154F1;
+    font-family: Nunito;
+    font-weight: 700;
+    margin: 140px 0px 0px 0px;
+   }
+
+
+
+   .opt{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 40px;
+    font-size: 16px;
+    font-family: nunito;
+    font-weight: 700;
+    color: #444444;
+   }
+
+
+   .opt1:hover{
+    border-radius: 20px;
+    border: 2px solid #4154F1;
+    width: 60px;
+    text-align: center;
+    height: 27px;
+    align-items: center;
+    padding-top: 8px ;
+   }
+
+
+   .opt2:hover{
+    border-radius: 20px;
+    border: 2px solid #4154F1;
+    width: 60px;
+    text-align: center;
+    height: 27px;
+    align-items: center;
+    padding-top: 8px ;
+   }
+
+
+   .opt3:hover{
+    border-radius: 20px;
+    border: 2px solid #4154F1;
+    width: 60px;
+    text-align: center;
+    height: 27px;
+    align-items: center;
+    padding-top: 8px ;
+   }
