@@ -340,7 +340,7 @@ button a {
     width: 430px;
     box-shadow: 0px 0px 10px #b1b1b1;
     border-radius: 5px;
-    margin: 40px 0px 20px 30px;
+    margin: 40px 0px 20px 0px;
 }
 
 .design{
@@ -365,3 +365,140 @@ button a {
 .box10:hover{
     background-color: #E9222C;
 }
+
+.box11{
+    background-color: #ffffff;
+    height: 390px;
+    width: 430px;
+    box-shadow: 0px 0px 10px #b1b1b1;
+    border-radius: 5px;
+    margin: 40px 0px 20px 30px;
+}
+
+.msg-svg5{
+    height: 40px;
+    width: 40px;
+    padding: 20px;
+    background-color: #ffd5d5;
+    color: #B50EDF;
+    margin: 70px 0px 10px 170px;
+    border-radius: 10px;
+    border: 2px solid #B50EDF   ;
+}
+
+.training{
+    color: #444444;
+    font-size: 27px;
+    font-family: Nunito;
+    font-weight: 700;
+    text-align: center;
+    margin: 40px 0px 0px 0px;
+}
+
+.box11:hover{
+    background-color:#B50EDF ;
+}
+
+.training-para{
+    color: #444444;
+    font-size: 18px;
+    font-family: Nunito;
+    margin: 10px 0px 30px 0px;
+    text-align: center;
+    padding: 0px 15px;
+}
+
+
+.box12{
+    background-color: #ffffff;
+    height: 390px;
+    width: 430px;
+    box-shadow: 0px 0px 10px #b1b1b1;
+    border-radius: 5px;
+    margin: 40px 0px 20px 30px;
+}
+
+.msg-svg6{
+    height: 40px;
+    width: 40px;
+    padding: 20px;
+    background-color: #f9b9d4;
+    color: #F51F9C;
+    margin: 70px 0px 10px 170px;
+    border-radius: 10px;
+    border: 2px solid #F51F9C;
+}
+
+.space{
+    color: #444444;
+    font-size: 27px;
+    font-family: Nunito;
+    font-weight: 700;
+    text-align: center;
+    margin: 40px 0px 0px 0px;
+}
+
+.box12:hover{
+    background-color: #F51F9C;
+}
+
+.space-para{
+    color: #444444;
+    font-size: 18px;
+    font-family: Nunito;
+    margin: 10px 0px 30px 0px;
+    text-align: center;
+    padding: 30px 15px;
+}
+
+.core{
+    color: #4154F1;
+    font-family: Nunito;
+    font-weight: 700;
+    padding: 90px 0px 0px 0px;
+   
+}
+
+
+.cards{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin: 90px 270px 0px 0px;
+}
+
+.c1{
+    margin: 60px 0px 0px 0px;
+    background-color: white;
+    width: 350px;
+    height: 80px;
+    border-radius: 8px;
+    
+}
+
+.svg-1{
+    background-color: #ECF3FF; 
+    width: 35px;
+    height: 35px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    border-radius: 5px;
+}
+
+.c-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.innovation{
+    font-size: 20px;
+    position: relative;
+    right: 180px;
+    top: 20px;
+}
+
