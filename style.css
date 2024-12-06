@@ -782,7 +782,7 @@ button a {
 }
 
 .contact{
-
+    
     width: 650px;
     display: flex;
     justify-content: center;
@@ -798,6 +798,7 @@ button a {
     height: 190px;
     width: 290px;
     border-radius: 10px;
+    box-shadow: 0px 0px 10px  #b1b1b1;
 }
 
 
@@ -817,6 +818,7 @@ button a {
     background-color: white;
     height: 190px;
     width: 290px;
+    box-shadow: 0px 0px 10px  #b1b1b1;
     border-radius: 10px;
 }
 
@@ -824,6 +826,8 @@ button a {
     background-color: white;
     height: 190px;
     width: 290px;
+    box-shadow: 0px 0px 10px  #b1b1b1;
+    
     border-radius: 10px;
 }
 
@@ -833,4 +837,135 @@ button a {
     height: 190px;
     width: 290px;
     border-radius: 10px;
+    box-shadow: 0px 0px 10px  #b1b1b1;
+}
+
+
+.form{
+    margin-top: 20px;
+    height:400px ;
+    position: relative;
+    top: -420px;
+    left: 900px;
+    width: 650px;
+}
+
+
+.line-1{
+    display: flex;
+}
+
+.name input{
+    font-family: nunito;
+    font-weight: lighter;
+    height: 45px;
+    width: 300px;
+    border: none;
+    font-size: 14px;
+    padding-left: 20px;
+}
+
+
+.email input{
+    font-family: nunito;
+    font-weight: lighter;
+    height: 45px;
+    width: 270px;
+    padding-left: 20px;
+    border: none;
+    font-size: 14px;
+    margin-left: 20px;
+
+}
+
+
+
+.sub input{
+    margin-top: 20px;
+    font-family: nunito;
+    font-weight: lighter;
+    height: 45px;
+    width: 95%;
+    padding-left: 20px;
+    border: none;
+    font-size: 14px;
+    
+}
+
+
+textarea{
+    margin-top: 20px;
+    font-family: nunito;
+    font-weight: lighter;
+    height: 150px;
+    width: 95%;
+    padding-left: 20px;
+    padding-top: 20px;
+    border: none;
+    font-size: 20px;
+
+}
+
+
+
+.btn button{
+    margin-left: 230px;
+    margin-top: 20px;
+}
+
+.mob{
+    position: relative;
+    top: -430px;
+    left: -420px;
+  
+}
+
+
+.log img{
+    position: absolute;
+    top: 140px;
+    left: -195px;
+
+}
+
+
+
+.news{
+    font-family: nunito;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    color: #012970;
+    background-color:rgb(255, 255, 255) ;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    position: relative;
+    
+    top: -400px;
+}
+
+.news input{
+    font-family: nunito;
+    width: 600px;
+    height: 60px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0px 0px 20px #989898;
+    margin-top: 20px;
+    padding-left: 20px;
+    font-size: 17px;
+    background-color: #F2F5FC;
+}
+
+
+.news button{
+    height: 40px;
+    box-shadow: 0px 0px 20px #989898;
+}
+
+
+
+.foot{
+    background-color: white;
+    height: 300px;
 }
