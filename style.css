@@ -554,4 +554,43 @@ button a {
     height: 20px;
     display: flex;
     color: gold;
+font-size: 24px;
+ }
+
+ .inno:hover{
+    margin-left: 110px ;
+    text-decoration: underline;
+    transition-duration: 1s;
+    
+ }
+
+
+
+.container3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin-top: 30px;
+}
+
+.boxes-12 img{
+    border-radius: 15px;
+    box-shadow: 0px 0px 20px #2b10fc;
+}
+
+
+.boxes-12 img:hover{
+    
+    width: 450px;
+    
+}
+
+.stars{
+    width: 20px;
+    height: 20px;
+    display: flex;
+    color: gold;
 }
