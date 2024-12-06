@@ -440,6 +440,7 @@ button a {
 
 .box12:hover{
     background-color: #F51F9C;
+    
 }
 
 .space-para{
@@ -460,296 +461,97 @@ button a {
 }
 
 
+
+
+ .cenpic{
+    margin-left: 360px;
+    
+ }
+
+
 .cards{
-    display: flex;
-    justify-content: center;
+    margin-top: 20px;
+    margin-left: 275px;
+    /* border: 3px solid black; */
     flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
     gap: 30px;
-    margin: 90px 270px 0px 0px;
+    max-width: 1200px;
+    
 }
 
-.c1{
-    margin: 60px 0px 0px 0px;
+ .c1{
     background-color: white;
-    width: 350px;
-    height: 80px;
+    width: 500px;
+    height: 100px;
     border-radius: 8px;
-    box-shadow: 0px 0px 8px #86a7df;
-}
-
-.svg-1{
-    background-color: #ECF3FF; 
-    width: 35px;
-    height: 35px;
-    position: relative;
-    top: 20px;
-    left: 20px;
-    border-radius: 5px;
-}
-
-.c-1{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-   
-    
-}
-
-.innovation{
-    font-size: 20px;
-    position: relative;
-    right: 180px;
-    top: 20px;
-    
-}
-
-.c2{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background-color: white;
-    position: relative;
-    left: 360px;
-    top: -35px;
-    width: 350px;
-    box-shadow: 0px 0px 8px #86a7df;
-    height: 80px;
-    border-radius: 8px;
-     
-    
-}
-
-.svg-2{
-    background-color: #ECF3FF; 
-    width: 35px;
-    height: 35px;
-    position: relative;
-    left: 20px;
-    border-radius: 5px;
-}
-
-
-
-.commitment{
-    font-size: 20px;
-    position: relative;
-    right: 180px;
-    margin: 0px -20px 0px 0px;
-    
-}
-
-
-
-
-
-
-.c3{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background-color: white;
-    position: relative;
-    left: 360px;
-    top: -15px;
-    width: 350px;
-    box-shadow: 0px 0px 8px #86a7df;
-    height: 80px;
-    border-radius: 8px;
-     
-    
-}
-
-.svg-3{
-    background-color: #ECF3FF; 
-    width: 35px;
-    height: 35px;
-    position: relative;
-    left: 20px;
-    border-radius: 5px;
-}
-
-
-
-.teamwork{
-    font-size: 20px;
-    position: relative;
-    right: 180px;
-    margin: 0px -20px 0px 0px;
-    
-}
-
-
-
-
-
-
-.c4{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background-color: white;
-    position: relative;
-    left: 360px;
-    bottom: -8px;
-    width: 350px;
-    box-shadow: 0px 0px 8px #86a7df;
-    height: 80px;
-    border-radius: 8px;
-     
-    
-}
-
-.svg-4{
-    background-color: #ECF3FF; 
-    width: 35px;
-    height: 35px;
-    position: relative;
-    left: 20px;
-    border-radius: 5px;
-}
-
-
-
-.satis{
-    font-size: 20px;
-    position: relative;
-    right: 180px;
-    margin: 0px -20px 0px 0px;
-    
-}
-
-
-
-
-
-
-.c5{
- display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background-color: white;
-    position: relative;
-    left: 0px;
-    top: -175px;
-    width: 350px;
-    box-shadow: 0px 0px 8px #86a7df;
-    height: 80px;
-    border-radius: 8px;
-     
-    
-}
-
-.svg-5{
-    background-color: #ECF3FF; 
-    width: 35px;
-    height: 35px;
-    position: relative;
-    left: 20px;
-    border-radius: 5px;
-}
-
-
-
-.goals{
-    font-size: 20px;
-    position: relative;
-    right: 220px;
-    
-    
-}
-
-
-.c6{
-    display: flex;
-       align-items: center;
-       justify-content: space-between;
-       background-color: white;
-       position: relative;
-       left: 0px;
-       top: -153px;
-       width: 350px;
-       box-shadow: 0px 0px 8px #86a7df;
-       height: 80px;
-       border-radius: 8px;
-        
-       
-   }
-   
-   .svg-6{
-       background-color: #ECF3FF; 
-       width: 35px;
-       height: 35px;
-       position: relative;
-       left: 20px;
-       border-radius: 5px;
-   }
-   
-   
-   
-   .respo{
-       font-size: 20px;
-       position: relative;
-       right: 150px;
-       
-       
-   }
-
-
-
-   .container7{
-    text-align: center;
-   }
-
-
-   .port{
-    color: #4154F1;
-    font-family: Nunito;
-    font-weight: 700;
-    margin: 140px 0px 0px 0px;
-   }
-
-
-
-   .opt{
-    display: flex;
-    justify-content: center;
-    gap: 60px;
-    margin-top: 40px;
-    font-size: 16px;
     font-family: nunito;
     font-weight: 700;
     color: #444444;
-   }
-
-
-   .opt1:hover{
-    border-radius: 20px;
-    border: 2px solid #4154F1;
-    width: 60px;
-    text-align: center;
-    height: 27px;
+    font-size: 18px;
+    display: flex;
     align-items: center;
-    padding-top: 8px ;
-   }
+    gap: 20px;
+    box-shadow: 0px 0px 10px #2b10fc;
+ }
 
 
-   .opt2:hover{
-    border-radius: 20px;
-    border: 2px solid #4154F1;
-    width: 60px;
-    text-align: center;
-    height: 27px;
+
+ .svg-1{
+   height: 40px;
+   width: 40px;
+   padding: 10px;
+   background-color: #bddcec;
+   color: #012970;
+   border-radius: 8px;
+   margin-left: 20px;
+ }
+
+ .svg-1:hover{
+    background-color: #012970;
+    color: white;
+ }
+
+
+ .inno{
+    font-size: 24px;
+ }
+
+ .inno:hover{
+    margin-left: 110px ;
+    text-decoration: underline;
+    transition-duration: 1s;
+    
+ }
+
+
+
+.container3{
+    display: flex;
+    justify-content: center;
     align-items: center;
-    padding-top: 8px ;
-   }
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin-top: 30px;
+}
+
+.boxes-12 img{
+    border-radius: 15px;
+    box-shadow: 0px 0px 20px #2b10fc;
+}
 
 
-   .opt3:hover{
-    border-radius: 20px;
-    border: 2px solid #4154F1;
-    width: 60px;
-    text-align: center;
-    height: 27px;
-    align-items: center;
-    padding-top: 8px ;
-   }
+.boxes-12 img:hover{
+    
+    width: 450px;
+    
+}
+
+.stars{
+    width: 20px;
+    height: 20px;
+    display: flex;
+    color: gold;
+}
