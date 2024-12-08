@@ -1248,7 +1248,9 @@ textarea {
     .contact{
         margin-bottom: 500px;
     }
-
+.mob img{
+    display: none;
+}
     .img1 img {
         margin-top: 0px;
         height: 300px;
@@ -1269,16 +1271,36 @@ textarea {
     position: relative;
     left: -20px;
     gap: 20px;
+    width: 340px;
     
 }
 
+.int{
+    display: none;
+}
+
+.msg textarea{
+    width: 320px;
+}
+
 .form input{
-    width: 100%;
+    width: 340px;
 }
 
 .form button{
     margin-left: 115px;
 }
 
+.news input{
+    width: 340px;
+}
 
+header{
+    width: 380px;
+}
+
+
+.li-items{
+    display: none;
+}
 }
