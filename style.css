@@ -213,7 +213,8 @@ button a {
     font-size: 27px;
     font-family: Nunito;
     font-weight: 700;
-    margin: 20px 0px 0px 60px;
+    /* margin: 20px 0px 0px 60px; */
+    text-align: center;
 }
 
 .web-para {
@@ -261,7 +262,7 @@ button a {
     color: #444444;
     font-size: 18px;
     font-family: Nunito;
-    margin: 10px 0px 30px 0px;
+    /* margin: 10px 0px 30px 0px; */
     text-align: center;
 
 
@@ -448,9 +449,9 @@ button a {
     color: #444444;
     font-size: 18px;
     font-family: Nunito;
-    margin: 10px 0px 30px 0px;
+    margin: 0px 0px 35px 13px;
     text-align: center;
-    padding: 30px 15px;
+    padding: 10px 15px 30px 0px;
 }
 
 .core {
@@ -582,7 +583,7 @@ button a {
 
 }
 
-.boxes-3{
+.boxes-3 {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -602,7 +603,7 @@ button a {
 }
 
 
-.text3{
+.text3 {
     color: #444444;
     font-size: 18px;
     margin-bottom: 50px;
@@ -617,7 +618,7 @@ button a {
 }
 
 
-.text:hover{
+.text:hover {
     border-radius: 20px;
     border: 1px solid #012970;
     text-align: center;
@@ -638,7 +639,7 @@ button a {
     font-size: 24px;
 }
 
-.boxes3{
+.boxes3 {
     background-color: white;
     height: 370px;
     width: 400px;
@@ -648,17 +649,17 @@ button a {
 }
 
 
-.boxes2{
+.boxes2 {
     background-color: white;
     height: 420px;
     width: 400px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px #c4c7fe;
-    
+
 }
 
 
-.boxes1{
+.boxes1 {
     background-color: white;
     height: 370px;
     width: 400px;
@@ -668,31 +669,7 @@ button a {
 }
 
 
-.box-t1{
-   font-family: nunito;
-   font-size: 15px;
-   font-weight: 700;
-   padding: 0px 35px;
-   margin-top: -20px;
-}
-
-
-
-.pic{
-    height: 80px;
-    width: 80px;
-    margin-left: 150px;
-    margin-top: 20px;
-   
-}
-
-
-.pic img{
-    border-radius: 50%;
-}
-
-
-.box-t2{
+.box-t1 {
     font-family: nunito;
     font-size: 15px;
     font-weight: 700;
@@ -700,7 +677,31 @@ button a {
     margin-top: -20px;
 }
 
-.john{
+
+
+.pic {
+    height: 80px;
+    width: 80px;
+    margin-left: 150px;
+    margin-top: 20px;
+
+}
+
+
+.pic img {
+    border-radius: 50%;
+}
+
+
+.box-t2 {
+    font-family: nunito;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 0px 35px;
+    margin-top: -20px;
+}
+
+.john {
     font-size: 24px;
     margin-left: -14px;
     font-family: Nunito;
@@ -710,19 +711,19 @@ button a {
     margin-top: 10px;
 }
 
-.int-card{
+.int-card {
     display: flex;
     gap: 20px;
     justify-content: center;
 
 }
 
-.pic1{
+.pic1 {
     margin-left: 70px;
     margin-top: 30px;
 }
 
-.int{
+.int {
     background-color: white;
     height: 600px;
     width: 400px;
@@ -733,7 +734,7 @@ button a {
 
 
 
-.intern{
+.intern {
     color: #012970;
     text-align: center;
     font-size: 30px;
@@ -744,7 +745,7 @@ button a {
 }
 
 
-.self{
+.self {
     color: white;
     background-color: #005eff;
     padding: 10px;
@@ -759,7 +760,7 @@ button a {
 }
 
 
-.txt-int{
+.txt-int {
     color: #444444;
     font-size: 15px;
     font-family: nunito;
@@ -770,7 +771,7 @@ button a {
 }
 
 
-.apply{
+.apply {
     position: relative;
     bottom: -90px;
     left: 70px;
@@ -781,8 +782,8 @@ button a {
 
 }
 
-.contact{
-    
+.contact {
+
     width: 650px;
     display: flex;
     justify-content: center;
@@ -793,16 +794,16 @@ button a {
 }
 
 
-.cont1{
+.cont1 {
     background-color: white;
     height: 190px;
     width: 290px;
     border-radius: 10px;
-    box-shadow: 0px 0px 10px  #b1b1b1;
+    box-shadow: 0px 0px 10px #b1b1b1;
 }
 
 
-.svg{
+.svg {
     height: 60px;
     width: 60px;
     color: #444444;
@@ -814,36 +815,36 @@ button a {
 
 
 
-.cont2{
+.cont2 {
     background-color: white;
     height: 190px;
     width: 290px;
-    box-shadow: 0px 0px 10px  #b1b1b1;
+    box-shadow: 0px 0px 10px #b1b1b1;
     border-radius: 10px;
 }
 
-.cont3{
+.cont3 {
     background-color: white;
     height: 190px;
     width: 290px;
-    box-shadow: 0px 0px 10px  #b1b1b1;
-    
+    box-shadow: 0px 0px 10px #b1b1b1;
+
     border-radius: 10px;
 }
 
 
-.cont4{
+.cont4 {
     background-color: white;
     height: 190px;
     width: 290px;
     border-radius: 10px;
-    box-shadow: 0px 0px 10px  #b1b1b1;
+    box-shadow: 0px 0px 10px #b1b1b1;
 }
 
 
-.form{
+.form {
     margin-top: 20px;
-    height:400px ;
+    height: 400px;
     position: relative;
     top: -420px;
     left: 900px;
@@ -851,11 +852,11 @@ button a {
 }
 
 
-.line-1{
+.line-1 {
     display: flex;
 }
 
-.name input{
+.name input {
     font-family: nunito;
     font-weight: lighter;
     height: 45px;
@@ -866,7 +867,7 @@ button a {
 }
 
 
-.email input{
+.email input {
     font-family: nunito;
     font-weight: lighter;
     height: 45px;
@@ -880,7 +881,7 @@ button a {
 
 
 
-.sub input{
+.sub input {
     margin-top: 20px;
     font-family: nunito;
     font-weight: lighter;
@@ -889,11 +890,11 @@ button a {
     padding-left: 20px;
     border: none;
     font-size: 14px;
-    
+
 }
 
 
-textarea{
+textarea {
     margin-top: 20px;
     font-family: nunito;
     font-weight: lighter;
@@ -908,20 +909,20 @@ textarea{
 
 
 
-.btn button{
+.btn button {
     margin-left: 230px;
     margin-top: 20px;
 }
 
-.mob{
+.mob {
     position: relative;
     top: -430px;
     left: -420px;
-  
+
 }
 
 
-.log img{
+.log img {
     position: absolute;
     top: 140px;
     left: -195px;
@@ -930,21 +931,21 @@ textarea{
 
 
 
-.news{
+.news {
     font-family: nunito;
     font-size: 40px;
     font-weight: 700;
     text-align: center;
     color: #012970;
-    background-color:rgb(255, 255, 255) ;
+    background-color: rgb(255, 255, 255);
     padding-top: 50px;
     padding-bottom: 70px;
     position: relative;
-    
+
     top: -400px;
 }
 
-.news input{
+.news input {
     font-family: nunito;
     width: 600px;
     height: 60px;
@@ -958,14 +959,326 @@ textarea{
 }
 
 
-.news button{
+.news button {
     height: 40px;
     box-shadow: 0px 0px 20px #989898;
 }
 
+.logos {
+    margin-bottom: 10px;
+}
 
 
-.foot{
+.foot {
     background-color: white;
     height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    list-style-type: none;
+    color: #012970;
+    font-family: nunito;
+    font-weight: 400;
+    margin-top: -400px;
+
+}
+
+
+.team-para {
+    color: #444444;
+    font-family: nunito;
+    font-weight: 700;
+    font-size: 14px;
+
+}
+
+
+.copy {
+    text-align: center;
+    font-family: nunito;
+    font-size: 15px;
+    color: #012970;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+/* General styles remain as they are */
+
+/* Media Query for iPhone 12 Pro */
+@media only screen and (max-width: 390px) {
+    body {
+        margin: 0;
+        font-size: 14px;
+    }
+
+    header {
+        height: 60px;
+        padding: 0 10px;
+    }
+
+    .li-items ul {
+        flex-direction: column;
+        gap: 10px;
+        margin: 0;
+    }
+
+    .li-items ul li a {
+        font-size: 14px;
+    }
+
+    .logo {
+        margin: 0;
+    }
+
+    .front {
+        flex-direction: column;
+        gap: 20px;
+        margin: 0;
+    }
+
+    .txt1 {
+        font-size: 32px;
+        margin: 100px 0 0 0;
+        text-align: center;
+    }
+
+    .txt2 {
+        font-size: 18px;
+        margin: 10px 0 20px 0;
+        text-align: center;
+    }
+
+    button {
+        font-size: 16px;
+        padding: 8px 15px;
+        margin: 50px 0px 50px 0px;
+    }
+
+    .box-2 {
+        flex-direction: column;
+        font-size: 14px;
+        margin: 20px 0px 50px 0px;
+        padding: 20px 20px 10px 20px;
+        height: auto;
+        box-shadow: 0px 0px 5px #444444;
+    }
+
+    .box-2 img {
+        height: 340px;
+        width: 340px;
+        margin-top: 10px;
+
+    }
+
+    .box7 svg {
+        margin-left: 130px;
+    }
+
+    .web {
+        text-align: center;
+    }
+
+    .boxes {
+        flex-direction: column;
+        gap: 20px;
+        margin: 20px 10px;
+    }
+
+    .box8 {
+        margin-left: -40px;
+    }
+
+    .msg-svg2 {
+        margin-left: 190px;
+    }
+
+    .block-para {
+        text-align: center;
+        margin-left: 30px;
+        padding: 0px 10px;
+    }
+
+    .box9 {
+        margin-left: -30px;
+    }
+
+    .msg-svg3 {
+        margin-left: 180px;
+    }
+
+    .app-para {
+        margin-left: 30px;
+        padding: 0px 10px;
+    }
+
+    .msg-svg4 {
+        margin-left: 155px;
+    }
+
+    .box11 {
+        margin-left: -10px;
+    }
+
+    .msg-svg5 {
+        margin-left: 160px;
+    }
+
+    .box12 {
+        margin-left: 0px;
+    }
+
+    .msg-svg6 {
+
+        margin-left: 155px;
+    }
+
+    .cenpic img {
+        height: 250px;
+        margin-bottom: 30px;
+        width: 300px;
+        margin-left: -300px;
+    }
+
+    .box-cont {
+        width: 100%;
+        height: auto;
+        margin: 10px 0;
+        padding: 20px;
+    }
+
+    .box-cont:hover {
+        background-color: #20b3fc;
+    }
+
+    .container {
+        padding: 10px;
+    }
+
+    .msg-svg {
+        margin: 20px auto;
+    }
+
+    .cards {
+        flex-direction: column;
+        gap: 10px;
+        margin: 10px;
+    }
+
+    .c1 {
+        width: 350px;
+        height: auto;
+        padding: 10px;
+        text-align: center;
+    }
+
+    .c1 .svg-1 {
+        margin-left: 0px;
+    }
+
+    .text3 .text{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+    }
+
+.cont2{
+    position: relative;
+    left: -307px;
+    box-shadow: 0px 0px 10px #444444;
+    top: 420px;
+}
+
+.cont4{
+    margin-left: -310px;
+    margin-top: 420px;
+    
+}
+.cont3{
+    margin-bottom: 500px;
+}
+
+    .svg-1 {
+        margin: 0 auto;
+    }
+
+    .inno {
+        text-align: center;
+        margin: 0;
+    }
+
+    .foot{
+        display: block;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        flex-wrap: wrap;
+        text-align: center;
+        height: 100%;
+    }
+
+    .container3 {
+        flex-direction: column;
+        margin: 0 10px;
+    }
+
+    .boxes-12 img {
+        width: 100%;
+        box-shadow: none;
+    }
+
+    .text3 {
+        flex-direction: column;
+        gap: 20px;
+        margin: 20px 0px 0px 0px;
+    }
+
+
+    .bt1 {
+        margin-left: 140px;
+        margin-bottom: 100px;
+    }
+
+    .contact{
+        margin-bottom: 500px;
+    }
+
+    .img1 img {
+        margin-top: 0px;
+        height: 300px;
+        position: relative;
+        top: -250px;
+    }
+
+.form{
+    position: relative;
+    left: 0px;
+    top: -60px;
+    
+}
+
+.form .line-1 {
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    left: -20px;
+    gap: 20px;
+    
+}
+
+.form input{
+    width: 100%;
+}
+
+.form button{
+    margin-left: 115px;
+}
+
+
 }
